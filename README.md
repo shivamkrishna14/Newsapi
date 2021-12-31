@@ -1,1 +1,1 @@
-# Newsapi
+This is a news api created using HTML, CSS and JavaScript. For making thsi API, first we need to create our own API key. I have mentioned my own API key.So, you have to use your own API key. For creating api key you can visit to this link--->https://newsapi.org/. Here you have to create firstly your account after that you can click on create api key button.
